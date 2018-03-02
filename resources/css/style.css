@@ -2,24 +2,24 @@ body {
   background: black;
   text-align: center;
   font-family: Verdana;
+  color: white;
 }
 
 .upper h1 {
   font-weight: normal;
-  color: white;
   text-align: center;
   font-size: 50px;
   display: block;
 }
 
-.middle .lower, h2 {
+.middle
+.lower, h2 {
   font-weight: 300;
   font-size: 42px;
-  color: white;
   display: block;
 }
 
-.middle, p{
+.middle p{
   color: Gray;
   font-size: 21px;
 }
